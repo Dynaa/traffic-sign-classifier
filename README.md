@@ -108,7 +108,7 @@ I’ve also added dropout layers to my CNN with a keep-drop probability of 0.8 t
 
 My final model results were:
 * Validation Accuracy = 99.280% 
-Test Accuracy = 94.9%
+Test Accuracy = 94.7%
 
 ### Test a Model on New Images
 
